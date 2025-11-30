@@ -1,0 +1,2 @@
+class ArchaeologicalProject < ApplicationRecord
+end
